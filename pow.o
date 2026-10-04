@@ -1,0 +1,366 @@
+{
+  "instructions_binary": [
+    {
+      "Break": null,
+      "Address": "0x0",
+      "Label": "pow",
+      "loaded": "00100000101001010000000001010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false,
+      "globl": true
+    },
+    {
+      "Break": null,
+      "Address": "0x4",
+      "Label": "",
+      "loaded": "00000000000100000000001010010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x8",
+      "Label": "",
+      "loaded": "11010000000000101000010101010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0xc",
+      "Label": "",
+      "loaded": "00000000000000000000001010010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x10",
+      "Label": "b1_symbol",
+      "loaded": "00000000101000101000000111100011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false,
+      "globl": false
+    },
+    {
+      "Break": null,
+      "Address": "0x14",
+      "Label": "",
+      "loaded": "00010000000001010000010101010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x18",
+      "Label": "",
+      "loaded": "00000000000100101000001010010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x1c",
+      "Label": "",
+      "loaded": "11111110000000000000111001100011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x20",
+      "Label": "e1_symbol",
+      "loaded": "00000010000100000000001010010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false,
+      "globl": false
+    },
+    {
+      "Break": null,
+      "Address": "0x24",
+      "Label": "",
+      "loaded": "00000001011000000000001100010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x28",
+      "Label": "",
+      "loaded": "00000000001100000000001110010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x2c",
+      "Label": "",
+      "loaded": "00000000000000000000111000010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x30",
+      "Label": "",
+      "loaded": "00000000100100000000111010010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x34",
+      "Label": "",
+      "loaded": "00000000110000000000111100010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x38",
+      "Label": "",
+      "loaded": "00000000010000000000111110010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x3c",
+      "Label": "",
+      "loaded": "00000010000100000000010110010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x40",
+      "Label": "",
+      "loaded": "00000001011000000000010110010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x44",
+      "Label": "",
+      "loaded": "00000000001100000000011000010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x48",
+      "Label": "",
+      "loaded": "00000000000000000000011010010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x4c",
+      "Label": "",
+      "loaded": "00000000100100000000011100010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x50",
+      "Label": "",
+      "loaded": "00000000110000000000011110010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x54",
+      "Label": "",
+      "loaded": "00000000010000000000100000010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x58",
+      "Label": "",
+      "loaded": "00000001001100000000100010010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x5c",
+      "Label": "",
+      "loaded": "11010000000000101000000001010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x60",
+      "Label": "",
+      "loaded": "11010000000000110000000011010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x64",
+      "Label": "",
+      "loaded": "11010000000000111000000101010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x68",
+      "Label": "",
+      "loaded": "11010000000011100000000111010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x6c",
+      "Label": "",
+      "loaded": "11010000000011101000001001010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x70",
+      "Label": "",
+      "loaded": "11010000000011110000001011010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x74",
+      "Label": "",
+      "loaded": "11010000000011111000001101010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x78",
+      "Label": "",
+      "loaded": "11010000000001011000010111010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x7c",
+      "Label": "",
+      "loaded": "11010000000001100000011001010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x80",
+      "Label": "",
+      "loaded": "11010000000001101000011011010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x84",
+      "Label": "",
+      "loaded": "11010000000001110000011101010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x88",
+      "Label": "",
+      "loaded": "11010000000001111000011111010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x8c",
+      "Label": "",
+      "loaded": "11010000000010000000100001010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x90",
+      "Label": "",
+      "loaded": "11010000000010001000100011010011",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    },
+    {
+      "Break": null,
+      "Address": "0x94",
+      "Label": "",
+      "loaded": "00000000000000001000000001100111",
+      "user": null,
+      "_rowVariant": "",
+      "visible": false
+    }
+  ],
+  "instructions_tag": [
+    {
+      "tag": "pow",
+      "addr": 0,
+      "globl": true
+    },
+    {
+      "tag": "b1_symbol",
+      "addr": 16,
+      "globl": false
+    },
+    {
+      "tag": "e1_symbol",
+      "addr": 32,
+      "globl": false
+    }
+  ]
+}
